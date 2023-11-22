@@ -6,8 +6,8 @@
     font-weight: 700;
 }
 
-.main{
-    background-color: #3F51B5;
+#root{
+    background-color: #0000FF ;
     }
 button{
     outline: none;
